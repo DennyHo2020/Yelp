@@ -2,9 +2,7 @@
 
 Yelp is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
-## User Stories
-
-The following **required** functionality is completed:
+## Features
 
 - Table rows for search results are dynamic height according to the content height. 
 - Custom cells has the proper Auto Layout constraints. 
