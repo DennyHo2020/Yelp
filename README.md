@@ -2,30 +2,13 @@
 
 Yelp is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
-Time spent: 13 hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [X] Table rows for search results should be dynamic height according to the content height. (3pt)
-- [X] Custom cells should have the proper Auto Layout constraints. (+5pt)
-- [X] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
-
-The following **stretch** features are implemented:
-
-- [ ] Infinite scroll for restaurant results. (+3pt)
-- [ ] Implement map view of restaurant results. (+3pt)
-- [ ] Implement the restaurant detail page. (+2pt)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1.
-2.
+- Table rows for search results are dynamic height according to the content height. 
+- Custom cells has the proper Auto Layout constraints. 
+- Search bar is in the navigation bar (doesn't have to expand to show location like the real Yelp app does). 
 
 ## Video Walkthrough
 
@@ -41,7 +24,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Denny Ho]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
